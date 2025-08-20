@@ -59,3 +59,11 @@ MIT License - available for educational and research purposes
 
 ## Important Note
 This project is for educational purposes only. Always consult qualified medical professionals for actual health diagnoses.
+
+
+## Note on Model Files
+The trained model (`retinal_disease_model.h5`) is not included due to GitHub file size limits. 
+To use the project:
+1. Run `retinal_disease_ai.ipynb` in Google Colab
+2. The notebook will train the model automatically
+3. You can download the trained model to your local machine
